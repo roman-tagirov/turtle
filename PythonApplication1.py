@@ -47,4 +47,3 @@ while True:
         penup()
     if keyboard.is_pressed('e'):
         pendown()
-    if 
